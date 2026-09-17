@@ -95,13 +95,12 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ## 🌟 About Me
 
-Hi there! I'm **Baraa Khatib Salkini**, also known as **Data With Baraa**. I’m an IT professional and passionate YouTuber on a mission to share knowledge and make working with data enjoyable and engaging!
+Hi there! I'm **Niranjan Murugarasu**, an AI & Data Science enthusiast and aspiring **AI Engineer & Data Engineer**. I’m passionate about building intelligent systems, working with data, and turning complex problems into practical solutions. I’m on a mission to continuously learn, build real-world projects, and explore how **AI, data, and software engineering** can create meaningful impact.
 
 Let's stay in touch! Feel free to connect with me on the following platforms:
 
-[![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](http://bit.ly/3GiCVUE)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/baraa-khatib-salkini)
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.datawithbaraa.com)
+
+[![LinkedIn](https://www.linkedin.com/in/niranjan-murugarasu-b8b706289)
+[![Website](https://portfoliovercel-ebon-nu.vercel.app/)
 [![Newsletter](https://img.shields.io/badge/Newsletter-FF5722?style=for-the-badge&logo=substack&logoColor=white)](https://bit.ly/BaraaNewsletter)
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/baraasalkini)
-[![Join](https://img.shields.io/badge/Join-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@datawithbaraa)
+
