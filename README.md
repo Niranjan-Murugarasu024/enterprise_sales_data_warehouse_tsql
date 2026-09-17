@@ -100,7 +100,7 @@ Hi there! I'm **Niranjan Murugarasu**, an AI & Data Science enthusiast and aspir
 Let's stay in touch! Feel free to connect with me on the following platforms:
 
 
-[![LinkedIn](https://www.linkedin.com/in/niranjan-murugarasu-b8b706289)
-[![Website](https://portfoliovercel-ebon-nu.vercel.app/)
-[![Newsletter](https://img.shields.io/badge/Newsletter-FF5722?style=for-the-badge&logo=substack&logoColor=white)](https://bit.ly/BaraaNewsletter)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niranjan-murugarasu-b8b706289)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfoliovercel-ebon-nu.vercel.app/)
+
 
