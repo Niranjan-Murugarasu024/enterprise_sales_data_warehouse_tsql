@@ -33,7 +33,14 @@ This project involves:
 - Data Analytics  
 
 ---
+## 🛠️ Important Links & Tools:
 
+Everything is for Free!
+- **[Datasets](datasets/):** Access to the project dataset (csv files).
+- **[Notion Project Steps]**([https://app.notion.com/p/SQL-Data-Warehouse-Project-5f0f7489824883a3be978122579f5ada?source=copy_link])
+
+  
+---
 ## 🚀 Project Requirements
 
 ### Building the Data Warehouse (Data Engineering)
