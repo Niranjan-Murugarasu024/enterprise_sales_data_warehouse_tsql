@@ -13,7 +13,7 @@ The data architecture for this project follows Medallion Architecture **Bronze**
 3. **Gold Layer**: Houses business-ready data modeled into a star schema required for reporting and analytics.
 
    
-![Data Architecture](docs/Warehouse_Arch.drawio.png)
+![Data Architecture](docs/Warehouse_Arch.png)
 ---
 ## 📖 Project Overview
 
